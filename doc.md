@@ -46,7 +46,7 @@ Theme Options
 General
 ---
 
-![Builder Cart General Options](http://i.imgur.com/XGdYDLK.png)
+![Builder Cart General Options](http://i.imgur.com/ZKso8i5.png)
 
 1. **Display BackToTop:** you can easily on/off back to top button by toggling the switch.
 

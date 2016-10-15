@@ -40,7 +40,7 @@ Theme Options
 
 *Builder Cart WordPress Theme* has very intuitive and rich theme options panel. You can control almost everything from theme options panel.
 
-![Builder Cart Theme Options](http://i.imgur.com/EnA7cXf.png)
+![Builder Cart Theme Options](http://i.imgur.com/ZKso8i5.png)
 
 
 General
@@ -96,6 +96,17 @@ Blog
 5. **Date Format:** customize your post date format..
 6. **Custom Text:** change read more button text.
 6. **Excerpt Length:** change excerpt length.
+
+
+WooCommerce
+---
+
+![Builder Cart WooCommerce Options](http://i.imgur.com/0yM6jJb.png)
+
+1. **Shop Page Title:** set your shop main or product archive page title.
+2. **Title Layout:** choose page-title layout for WooCommerce pages.
+3. **Title Background:** Select an image as a background image for shop or product-archive page title.
+4. **Sidebar:** select sidebar option for shop pages form dropdown and the available options are *Sidebar Left*, *Sidebar Right* and *No Sidebar*.
 
 
 Social Media
